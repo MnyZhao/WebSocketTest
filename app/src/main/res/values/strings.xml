@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebSocketTest</string>
+    <string name="send">发送</string>
+    <string name="closed">关闭连接</string>
+</resources>
